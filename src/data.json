@@ -1,0 +1,471 @@
+{
+  "lastUpdate": null,
+  "totalWebtoonCount": 6847,
+  "naverWebtoonCount": 2406,
+  "kakaoWebtoonCount": 1932,
+  "kakaoPageWebtoonCount": 2509,
+  "updatedWebtoonCount": 0,
+  "createdWebtoonCount": 0,
+  "webtoons": [
+    {
+      "_id": "63821f5824614f7fb3c9928d",
+      "webtoonId": 1000000784833,
+      "title": "지금부터 황제의 마음을 빼앗겠습니다",
+      "author": "코코넛크림파이,kiki",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784833",
+      "img": "https://image-comic.pstatic.net/webtoon/784833/thumbnail/thumbnail_IMAG21_3847870917366593078.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "지금부터황제의마음을빼앗겠습니다코코넛크림파이kiki",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c99293",
+      "webtoonId": 1000000796534,
+      "title": "위대한 가문의 검술 천재가 되었다",
+      "author": "이동섭,전욱",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=796534&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/796534/thumbnail/thumbnail_IMAG21_7089001402431846197.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "위대한가문의검술천재가되었다이동섭전욱",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c99295",
+      "webtoonId": 1000000786920,
+      "title": "미치도록 너만을",
+      "author": "월귤,해가,Lunar 이지연",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=786920",
+      "img": "https://image-comic.pstatic.net/webtoon/786920/thumbnail/thumbnail_IMAG21_3546924877362770021.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "미치도록너만을월귤해가lunar이지연",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c99299",
+      "webtoonId": 1000000799156,
+      "title": "인자강",
+      "author": "김경태,진성",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=799156&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/799156/thumbnail/thumbnail_IMAG21_9f516c95-bf96-4cb0-b841-89681fd0e75e.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "인자강김경태진성",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c9929b",
+      "webtoonId": 1000000784826,
+      "title": "마성의 공작님은 잠 못 이루고",
+      "author": "소화기,고요곰,레몬개구리",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784826",
+      "img": "https://image-comic.pstatic.net/webtoon/784826/thumbnail/thumbnail_IMAG21_7364060724469250145.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "마성의공작님은잠못이루고소화기고요곰레몬개구리",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c9929f",
+      "webtoonId": 1000000796533,
+      "title": "옆집 동생이 뱀파이어면 어떡하죠?!",
+      "author": "이만세",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=796533",
+      "img": "https://image-comic.pstatic.net/webtoon/796533/thumbnail/thumbnail_IMAG21_3761131749916434997.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "옆집동생이뱀파이어면어떡하죠이만세",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992a1",
+      "webtoonId": 1000000785837,
+      "title": "혼전계약서",
+      "author": "시원,플아다",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=785837&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/785837/thumbnail/thumbnail_IMAG21_7075545549086274098.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "혼전계약서시원플아다",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992a3",
+      "webtoonId": 1000000784813,
+      "title": "퇴마록",
+      "author": "운,이협,이우혁",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784813&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/784813/thumbnail/thumbnail_IMAG21_3990583123542172258.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "퇴마록운이협이우혁",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992a7",
+      "webtoonId": 1000000797222,
+      "title": "초월자 학원의 수강생이 되었다",
+      "author": "어쩌다,뀨잔느,두파치타파",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=797222&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/797222/thumbnail/thumbnail_IMAG21_8ab4e628-aa39-4031-ac72-f4d428fbf08b.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "초월자학원의수강생이되었다어쩌다뀨잔느두파치타파",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992af",
+      "webtoonId": 1000000784837,
+      "title": "귀령왕",
+      "author": "손고후,박진석",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784837",
+      "img": "https://image-comic.pstatic.net/webtoon/784837/thumbnail/thumbnail_IMAG21_a78dc172-0702-4ab5-9437-6f970511a633.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 10,
+      "searchKeyword": "귀령왕손고후박진석",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c99289",
+      "webtoonId": 1000000798296,
+      "title": "제 3 아파트",
+      "author": "오닛",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=798296&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/798296/thumbnail/thumbnail_IMAG21_71e32354-e5ea-4564-af5b-ef7842888cad.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 5,
+      "searchKeyword": "제3아파트오닛",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c9928f",
+      "webtoonId": 1000000800598,
+      "title": "시크릿 플레이어",
+      "author": "냠냠이,나지하지,산지직송",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800598&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/800598/thumbnail/thumbnail_IMAG21_40fbbde6-aded-4efb-8625-b011425668fe.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 5,
+      "searchKeyword": "시크릿플레이어냠냠이나지하지산지직송",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c99297",
+      "webtoonId": 1000000800077,
+      "title": "동통대학교",
+      "author": "이난",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800077&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/800077/thumbnail/thumbnail_IMAG21_e2eae7f1-e18c-49fb-b3e1-1ff108f70ce8.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 5,
+      "searchKeyword": "동통대학교이난",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": true,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992a9",
+      "webtoonId": 1000000799464,
+      "title": "집사가 되어줘",
+      "author": "bdo",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=799464",
+      "img": "https://image-comic.pstatic.net/webtoon/799464/thumbnail/thumbnail_IMAG21_822f8fe5-d4d3-43c7-98e0-75131c24c6cd.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 5,
+      "searchKeyword": "집사가되어줘bdo",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992ad",
+      "webtoonId": 1000000792725,
+      "title": "밀당의 요정",
+      "author": "진선,천지혜",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=792725",
+      "img": "https://image-comic.pstatic.net/webtoon/792725/thumbnail/thumbnail_IMAG21_4049642299672781409.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 5,
+      "searchKeyword": "밀당의요정진선천지혜",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c9928b",
+      "webtoonId": 1000000800775,
+      "title": "고양이 키스",
+      "author": "건짱,망둥어,김애정",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800775&week=dailyPlus",
+      "img": "https://image-comic.pstatic.net/webtoon/800775/thumbnail/thumbnail_IMAG21_fbedd1df-d6a3-479c-bd58-1248c88fa2e8.jpg",
+      "service": "naver",
+      "updateDays": [
+        "naverDaily"
+      ],
+      "fanCount": 1,
+      "searchKeyword": "고양이키스건짱망둥어김애정",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": true,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c99291",
+      "webtoonId": 1000000801442,
+      "title": "크라임 퍼즐 시즌2",
+      "author": "Meen,도승재",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=801442",
+      "img": "https://image-comic.pstatic.net/webtoon/801442/thumbnail/thumbnail_IMAG21_48edc63e-78d1-4ccf-833a-4367c7bf11ed.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 1,
+      "searchKeyword": "크라임퍼즐시즌2meen도승재",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c9929d",
+      "webtoonId": 1000000800360,
+      "title": "나쁜 피",
+      "author": "산하,이재복",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=800360",
+      "img": "https://image-comic.pstatic.net/webtoon/800360/thumbnail/thumbnail_IMAG21_66a2bf1b-8c5d-4f08-9383-3834eefe1c70.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 1,
+      "searchKeyword": "나쁜피산하이재복",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992a5",
+      "webtoonId": 1000000787730,
+      "title": "꼰대 관찰자",
+      "author": "진아",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=787730",
+      "img": "https://image-comic.pstatic.net/webtoon/787730/thumbnail/thumbnail_IMAG21_7293356821793825843.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 1,
+      "searchKeyword": "꼰대관찰자진아",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    },
+    {
+      "_id": "63821f5824614f7fb3c992ab",
+      "webtoonId": 1000000784834,
+      "title": "한 달 서른 날",
+      "author": "꿀자몽",
+      "url": "https://m.comic.naver.com/webtoon/list?titleId=784834",
+      "img": "https://image-comic.pstatic.net/webtoon/784834/thumbnail/thumbnail_IMAG21_3631085891993416548.jpg",
+      "service": "naver",
+      "updateDays": [
+        "finished"
+      ],
+      "fanCount": 1,
+      "searchKeyword": "한달서른날꿀자몽",
+      "additional": {
+        "new": false,
+        "adult": false,
+        "rest": false,
+        "up": false,
+        "singularityList": [
+          "waitFree"
+        ]
+      }
+    }
+  ]
+}
